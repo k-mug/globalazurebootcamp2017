@@ -183,15 +183,16 @@ a span.ti-twitter-alt {
 	color: #4099ff;
 }
 
-.tickets {
-	background-color: #fcd93b;
+.sponsors {
+	background-color: #fff;
+    min-height: 650px;
 }
-.tickets .price {
+.sponsors .price {
 	font-size: 4em;
 	color: #dd5138;
     font-weight: 100;
 }
-.tickets .price sup {
+.sponsors .price sup {
 	font-size: 0.4em;
 }
 
